@@ -1,0 +1,61 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+
+}
+.nv{
+    position: sticky;
+    
+
+}
+.crousel{
+    height: 600px;
+
+}
+.jamb{
+
+padding: 10px;
+padding-bottom: 20px;
+font-size: 30px;
+text-align: center;
+justify-content: center;
+color: blue;
+
+}
+.jmb{
+    padding-top: 15px;
+    
+    height: 200px;
+}
+.pic{
+ 
+    right: 10px;
+    
+}
+.crd{
+    margin-left: 20px;
+
+
+}
+.titl{
+    font-size:20px ;
+    color: blue;
+}
+.tittle{
+    font-size: 15px;
+    color: blue;
+
+}
+
+.text{
+    font-size: 40px;
+    font-weight: 10px;
+    
+    line-height: 2px;
+    word-spacing: 5px;
+    color: blue;
+}
+
